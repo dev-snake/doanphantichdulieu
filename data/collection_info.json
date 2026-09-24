@@ -1,0 +1,11 @@
+{
+  "collected_at_utc": "2026-09-23 17:03:18",
+  "api": "https://api.stackexchange.com/2.3",
+  "site": "stackoverflow",
+  "seed": 42,
+  "sample_per_month": 100,
+  "first_month": "2021-01",
+  "last_month": "2025-12",
+  "ai_first_month": "2022-12",
+  "quota_remaining_after_run": 42
+}
